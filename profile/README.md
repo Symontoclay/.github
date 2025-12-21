@@ -9,7 +9,7 @@ It adheres to high standards of **expressiveness**, **modularity**, and **extens
 The design principles ensure the following benefits:
 * **Declarativity**: behavior is described at a high level, reducing boilerplate and making scripts more readable.
 * **Expressiveness**: complex reasoning, planning, and reactive mechanisms can be captured concisely.
-* **Extensibility**: modular architecture allows adding new logic operators, triggers, or planning strategies without breaking existing code.
+* **Extensibility**: modular architecture allows adding new triggers, or planning strategies without breaking existing code.
 
 SymOntoClay integrates with Unity as open-source components.
 It provides support for Hierarchical Task Networks (HTN) and knowledge-based reasoning, enabling developers to create NPCs with predictable, consistent, and intelligent behavior.
